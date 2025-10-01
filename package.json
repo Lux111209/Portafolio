@@ -1,11 +1,19 @@
 {
-  "name": "John_Doe",
+  "name": "JD",
   "version": "1.5.0",
   "description": "An elegant responsive bootstrap 4.x theme.",
   "main": "gulpfile.js",
   "author": "DevCRUD",
   "scripts": {
-    "build": "your build command here"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {
     "browser-sync": "^2.26.3",
