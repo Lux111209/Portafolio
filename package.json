@@ -5,7 +5,7 @@
   "main": "gulpfile.js",
   "author": "DevCRUD",
   "scripts": {
-    "start": "gulp"
+    "build": "your build command here"
   },
   "devDependencies": {
     "browser-sync": "^2.26.3",
